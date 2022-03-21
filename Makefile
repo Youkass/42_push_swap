@@ -6,7 +6,7 @@
 #    By: yobougre <marvin@42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/01/10 17:53:40 by yobougre          #+#    #+#              #
-#    Updated: 2022/03/21 15:14:20 by yuro4ka          ###   ########.fr        #
+#    Updated: 2022/03/21 15:40:08 by yuro4ka          ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -61,7 +61,7 @@ SRCS_BONUS= push_bonus/checker.c\
 INCL=	includes/checker.h\
 		includes/push_swap.h
 
-CC= gcc-11
+CC= gcc
 
 CFLAGS= -Wall -Werror -Wextra
 
